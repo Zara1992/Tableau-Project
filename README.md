@@ -38,8 +38,8 @@ Q5 – Understand the distribution of mortality per 100,000 population across th
 * The regions should have been identified in complete form like Africa instead of a code AFR.
 * The source of the data should be linked for better analysis. 
 
-If there was more time I would add other data sources like economic indicators (Income, GDP) and Health statistics of the countries to future analyse the data.
-A great WHO resource for TB (https://www.who.int/teams/global-tuberculosis-programme/tb-reports)
+
 
 ## Future Goals
-
+If there was more time I would add other data sources like economic indicators (Income, GDP) and Health statistics of the countries to future analyse the data.
+A great WHO resource for TB (https://www.who.int/teams/global-tuberculosis-programme/tb-reports)
